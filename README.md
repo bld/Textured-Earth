@@ -27,5 +27,5 @@ map. Select the sphere. Go to mesh edit mode (Tab). Change the view to
 "Front" (numpad 1). Select Mesh -> UV Unwrap -> Sphere Projection. In
 the displacement modifier, set the "Texture Coordinate" to "UV".
 
-Print with support material. I originally use it as a part in another
+Print with support material. I originally used it as a part in another
 project.
